@@ -1,10 +1,11 @@
 ### Hi there, I'm Tomasz👋
 
-- 🌱 I’m currently learning React.
+
 
 <!--
-- 🔭 I’m currently working on Rate Your Game app with friend.
 
+- 🔭 I’m currently working on Rate Your Game app with friend.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
